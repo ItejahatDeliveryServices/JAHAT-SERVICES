@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sudanese Gemini Live",
+  "description": "A real-time video and audio chat application powered by Gemini 2.5 Flash, customized to speak in an authentic Sudanese dialect.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
